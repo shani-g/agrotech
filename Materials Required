@@ -1,10 +1,12 @@
 Materials Required:
 
 1.	Breadboard
-2.	Esp32
-3.	Soil Moisture Sensor (with PM-WCS-3 )
+2.	Esp32 - (helpful site: https://hackaday.io/project/167346/instructions)
+3.	Soil Moisture Sensor (with PM-WCS-3 ) - https://tinovi.com/wp-content/uploads/2019/03/PM-WCS-3-I2C.pdf
 4.	4 channel Arduino relay 
-5.	Load cell with xfw-hx711
-6.	Terminal Strips and Screw Terminals
-7.	Basic tools and Soldering Kit
+5.	Load cell with xfw-hx711 - https://www.instructables.com/How-to-Interface-HX711-Balance-Module-With-Load-Ce/
+6.  Solenoid valve
+7.	Terminal Strips and Screw Terminals
+8.	Basic tools and Soldering Kit
+9.  Tears, sweat, and burns
 
