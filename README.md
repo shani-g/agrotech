@@ -12,4 +12,4 @@ involve:
 * setting up an ESP32 microcontrollers to receive data from the sensors make the necessary real-time calculations, and control irrigation.
 * uploading real-time data to the cloud (e.g. https://thingspeak.com/)
 
-***To understand more - go to the guide ! ***
+***To understand more - go to the guide !***
